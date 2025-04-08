@@ -1,1 +1,1 @@
-# dbt_workshop
+# dbt_my_workshop
